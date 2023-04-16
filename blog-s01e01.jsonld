@@ -18,6 +18,11 @@
       "@type": "TVSeries",
       "name": "Knight Rider",
       "sameAs": "http://www.wikidata.org/entity/Q464009"
+    },
+    {
+      "@type": "Movie",
+      "name": "John Wick",
+      "sameAs": "http://www.wikidata.org/entity/Q15732802"
     }
   ]
 }

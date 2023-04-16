@@ -39,5 +39,11 @@
     "description": "Person of Interest Wiki entry",
     "url": "https://personofinterest.fandom.com/wiki/Pilot"
   },
-  "sameAs": "http://www.wikidata.org/entity/Q16746479"
+  "sameAs": "http://www.wikidata.org/entity/Q16746479",
+  "character": [
+    {
+      "@type": "Person",
+      "name": "Anton O'Mara"
+    }
+  ]
 }
