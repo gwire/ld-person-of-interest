@@ -12,7 +12,23 @@
     "character": [
       {
         "@type": "Person",
-        "name": "John Reese"
+        "name": "John Reese",
+        "hasOccupation": [
+          {
+            "@type": "Role",
+            "hasOccupation": {
+              "@type": "Occupation",
+              "name": "CIA Operative"
+            },
+            "startDate": "2005",
+            "endDate": "2010"
+          }
+        ],
+        "mainEntityOfPage": {
+          "@type": "CreativeWork",
+          "description": "Person of Interest Wiki entry for John Reese",
+          "url": "https://personofinterest.fandom.com/wiki/John_Reese"
+        }
       },
       {
         "@type": "Person",
@@ -120,6 +136,7 @@
     "description": "Person of Interest Wiki entry",
     "url": "https://personofinterest.fandom.com/wiki/Pilot"
   },
+  "temporalCoverage": [ "2011", "2001-09-11" ],
   "sameAs": "http://www.wikidata.org/entity/Q16746479",
   "actor": [
     {
