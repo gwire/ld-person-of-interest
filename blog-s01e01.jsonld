@@ -13,6 +13,11 @@
       "name": "AllSaints",
       "alternateName": "All Saints",
       "sameAs": "http://www.wikidata.org/entity/Q4728473"
+    },
+    {
+      "@type": "TVSeries",
+      "name": "Knight Rider",
+      "sameAs": "http://www.wikidata.org/entity/Q464009"
     }
   ]
 }
