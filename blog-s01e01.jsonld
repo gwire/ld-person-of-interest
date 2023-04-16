@@ -1,0 +1,10 @@
+{
+  "@context": "http://schema.org",
+  "@type": "BlogPosting",
+  "url": "https://www.hexkey.co.uk/lee/log/2023/01/person-of-interest-s1e01/",
+  "about": {
+    "@type": "TVEpisode",
+    "name": "Person of Interest s1e01",
+    "sameAs": "http://www.wikidata.org/entity/Q16746479"
+  }
+}

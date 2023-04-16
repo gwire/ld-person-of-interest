@@ -38,5 +38,6 @@
     "@type": "CreativeWork",
     "description": "Person of Interest Wiki entry",
     "url": "https://personofinterest.fandom.com/wiki/Pilot"
-  }
+  },
+  "sameAs": "http://www.wikidata.org/entity/Q16746479"
 }
