@@ -3,7 +3,12 @@
   "@type": "TVEpisode",
   "partOfSeries": {
     "@type": "TVSeries",
-    "name": "Person of Interest"
+    "name": "Person of Interest",
+    "spatialCoverage": {
+      "@type": "Place",
+      "name": "New York"
+    },
+    "temporalCoverage": "2001.."
   },
   "partOfSeason": {
     "@type": "TVSeason",
