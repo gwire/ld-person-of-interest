@@ -39,6 +39,11 @@
       "@type": "Product",
       "name": "Apple AirPods",
       "sameAs": "http://www.wikidata.org/entity/Q26936286"
+    },
+    {
+      "@type": "Product",
+      "name": "Apple AirTags",
+      "sameAs": "http://www.wikidata.org/entity/Q96371582"
     }
   ]
 }
