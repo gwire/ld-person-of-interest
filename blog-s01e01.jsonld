@@ -49,6 +49,12 @@
       "@type": "VideoGame",
       "name": "Watch_Dogs",
       "sameAs": "http://www.wikidata.org/entity/Q1371726"
+    },
+    {
+      "@type": "WebSite",
+      "name": "Nextdoor",
+      "description": "Neighbourhood-based social-media site",
+      "sameAs": "http://www.wikidata.org/entity/Q7021239"
     }
   ]
 }
