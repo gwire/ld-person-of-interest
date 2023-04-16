@@ -84,6 +84,12 @@
       "name": "closed-circuit television",
       "alternateName": "CCTV",
       "sameAs": "http://www.wikidata.org/entity/Q242256"
+    },
+    {
+      "@type": "Thing",
+      "name": "Integrated Automated Fingerprint Identification System",
+      "alternateName": "IAFIS",
+      "sameAs": "http://www.wikidata.org/entity/Q6042787"
     }
   ]
 }

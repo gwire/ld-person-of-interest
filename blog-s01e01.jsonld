@@ -23,6 +23,12 @@
       "@type": "Movie",
       "name": "John Wick",
       "sameAs": "http://www.wikidata.org/entity/Q15732802"
+    },
+    {
+      "@type": "Person",
+      "name": "Mark Coleran",
+      "description": "User-interface designer",
+      "url": "http://coleran.com/"
     }
   ]
 }
