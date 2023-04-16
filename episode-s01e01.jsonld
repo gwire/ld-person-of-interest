@@ -27,6 +27,10 @@
               "name": "Nagra",
               "sameAs": "http://www.wikidata.org/entity/Q586636"
             }
+          },
+          {
+            "@type": "OwnershipInfo",
+            "name": "The Library"
           }
         ]
       },
@@ -69,6 +73,16 @@
           "description": "Person of Interest Wiki entry for NYPD 8th Precinct",
           "url": "https://personofinterest.fandom.com/wiki/NYPD_8th_Precinct"
         }
+      },
+      {
+        "@type": "Place",
+        "name": "The Library",
+        "description": "An abandoned New York Public Library building",
+        "mainEntityOfPage": {
+          "@type": "CreativeWork",
+          "description": "Person of Interest Wiki entry for the Library",
+          "url": "https://personofinterest.fandom.com/wiki/The_Library"
+        }
       }
     ]
   },
@@ -102,6 +116,34 @@
       "name": "Integrated Automated Fingerprint Identification System",
       "alternateName": "IAFIS",
       "sameAs": "http://www.wikidata.org/entity/Q6042787"
+    },
+    {
+      "@type": "Thing",
+      "name": "crazy wall",
+      "alternateName": "evidence board",
+      "sameAs": "http://www.wikidata.org/entity/Q98108318"
+    },
+    {
+      "@type": "Dataset",
+      "name": "The List",
+      "description": "A printed list of Social Security Numbers",
+      "material": {
+        "@type": "Product",
+        "name": "tractor feed paper",
+        "sameAs": "http://www.wikidata.org/entity/Q1340619"
+      },
+      "mentions": [
+        {
+          "@type": "Thing",
+          "name": "OCR-A",
+          "sameAs": "http://www.wikidata.org/entity/Q682579"
+        },
+        {
+          "@type": "Thing",
+          "name": "Social Security number",
+          "sameAs": "http://www.wikidata.org/entity/Q5612679"
+        }
+      ]
     }
   ]
 }
