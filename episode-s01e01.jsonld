@@ -33,5 +33,10 @@
     "seasonNumber": "1"
   },
   "episodeNumber": "1",
-  "name": "Pilot"
+  "name": "Pilot",
+  "subjectOf": {
+    "@type": "CreativeWork",
+    "description": "Person of Interest Wiki entry",
+    "url": "https://personofinterest.fandom.com/wiki/Pilot"
+  }
 }
