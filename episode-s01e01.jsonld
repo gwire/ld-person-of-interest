@@ -20,13 +20,45 @@
       },
       {
         "@type": "Person",
-        "name": "Joss Carter"
+        "name": "Joss Carter",
+        "mainEntityOfPage": {
+          "@type": "CreativeWork",
+          "description": "Person of Interest Wiki entry for Joss Carter",
+          "url": "https://personofinterest.fandom.com/wiki/Joss_Carter"
+        },
+        "hasOccupation": [
+          {
+            "@type": "Occupation",
+            "name": "Police detective"
+          },
+          {
+            "@type": "Role",
+            "hasOccupation": {
+              "@type": "Occupation",
+              "name": "Warrant officer",
+              "sameAs": "http://www.wikidata.org/entity/Q104840830"
+            },
+            "startDate": "2002",
+            "endDate": "2004"
+          }
+        ]
       },
       {
         "@type": "Person",
         "name": "Lionel Fusco"
       }
     ],
+    "contentLocation": [
+      {
+        "@type": "Place",
+        "name": "NYPD 8th Precinct",
+        "mainEntityOfPage": {
+          "@type": "CreativeWork",
+          "description": "Person of Interest Wiki entry for NYPD 8th Precinct",
+          "url": "https://personofinterest.fandom.com/wiki/NYPD_8th_Precinct"
+        }
+      }
+    ]
   },
   "partOfSeason": {
     "@type": "TVSeason",
@@ -44,6 +76,14 @@
     {
       "@type": "Person",
       "name": "Anton O'Mara"
+    }
+  ],
+  "mentions": [
+    {
+      "@type": "Thing",
+      "name": "closed-circuit television",
+      "alternateName": "CCTV",
+      "sameAs": "http://www.wikidata.org/entity/Q242256"
     }
   ]
 }
