@@ -6,5 +6,13 @@
     "@type": "TVEpisode",
     "name": "Person of Interest s1e01",
     "sameAs": "http://www.wikidata.org/entity/Q16746479"
-  }
+  },
+  "mentions": [
+    {
+      "@type": "ClothingStore",
+      "name": "AllSaints",
+      "alternateName": "All Saints",
+      "sameAs": "http://www.wikidata.org/entity/Q4728473"
+    }
+  ]
 }
