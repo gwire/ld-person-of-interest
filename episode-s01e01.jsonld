@@ -86,6 +86,29 @@
       }
     ]
   },
+  "creator": [
+    {
+      "@type": "PerformanceRole",
+      "name": "writer",
+      "creator": {
+        "@type": "Person",
+        "name": "Jonathan Nolan",
+        "sameAs": "https://www.wikidata.org/wiki/Q372788",
+        "homeLocation": [
+          {
+            "@type": "Place",
+            "name": "London",
+            "sameAs": "https://www.wikidata.org/wiki/Q84"
+          },
+          {
+            "@type": "Place",
+            "name": "Chicago",
+            "sameAs": "https://www.wikidata.org/wiki/Q1297"
+          }
+        ]
+      }
+    }
+  ],
   "partOfSeason": {
     "@type": "TVSeason",
     "seasonNumber": "1"
