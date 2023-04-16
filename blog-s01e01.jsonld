@@ -34,6 +34,11 @@
       "@type": "Movie",
       "name": "The Conversation",
       "sameAs": "http://www.wikidata.org/entity/Q1009788"
+    },
+    {
+      "@type": "Product",
+      "name": "Apple AirPods",
+      "sameAs": "http://www.wikidata.org/entity/Q26936286"
     }
   ]
 }

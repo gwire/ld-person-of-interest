@@ -102,6 +102,10 @@
     {
       "@type": "Person",
       "name": "Anton O'Mara"
+    },
+    {
+      "@type": "Person",
+      "name": "Michael Pope"
     }
   ],
   "mentions": [
