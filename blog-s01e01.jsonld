@@ -44,6 +44,11 @@
       "@type": "Product",
       "name": "Apple AirTags",
       "sameAs": "http://www.wikidata.org/entity/Q96371582"
+    },
+    {
+      "@type": "VideoGame",
+      "name": "Watch_Dogs",
+      "sameAs": "http://www.wikidata.org/entity/Q1371726"
     }
   ]
 }
