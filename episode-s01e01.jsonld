@@ -16,7 +16,19 @@
       },
       {
         "@type": "Person",
-        "name": "Harold Finch"
+        "name": "Harold Finch",
+        "owns": [
+          {
+            "@type": "Product",
+            "name": "Nagra E",
+            "description": "Portable tape recorder introduced in 1976",
+            "brand": {
+              "@type": "Brand",
+              "name": "Nagra",
+              "sameAs": "http://www.wikidata.org/entity/Q586636"
+            }
+          }
+        ]
       },
       {
         "@type": "Person",

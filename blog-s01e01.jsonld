@@ -29,6 +29,11 @@
       "name": "Mark Coleran",
       "description": "User-interface designer",
       "url": "http://coleran.com/"
+    },
+    {
+      "@type": "Movie",
+      "name": "The Conversation",
+      "sameAs": "http://www.wikidata.org/entity/Q1009788"
     }
   ]
 }
