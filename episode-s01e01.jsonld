@@ -8,7 +8,25 @@
       "@type": "Place",
       "name": "New York"
     },
-    "temporalCoverage": "2001.."
+    "temporalCoverage": "2001..",
+    "character": [
+      {
+        "@type": "Person",
+        "name": "John Reese"
+      },
+      {
+        "@type": "Person",
+        "name": "Harold Finch"
+      },
+      {
+        "@type": "Person",
+        "name": "Joss Carter"
+      },
+      {
+        "@type": "Person",
+        "name": "Lionel Fusco"
+      }
+    ],
   },
   "partOfSeason": {
     "@type": "TVSeason",
