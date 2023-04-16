@@ -139,6 +139,17 @@
       }
     }
   ],
+  "hasPart": [
+    {
+      "@type": "MusicRecording",
+      "name": "Angel",
+      "byArtist": {
+        "@type": "MusicGroup",
+        "name": "Massive Attack"
+      },
+      "sameAs": "http://www.wikidata.org/entity/Q12062448"
+    }
+  ],
   "character": [
     {
       "@type": "Person",
