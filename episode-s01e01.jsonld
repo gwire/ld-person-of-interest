@@ -98,14 +98,41 @@
     "url": "https://personofinterest.fandom.com/wiki/Pilot"
   },
   "sameAs": "http://www.wikidata.org/entity/Q16746479",
+  "actor": [
+    {
+      "@type": "PerformanceRole",
+      "characterName": "Seamus O'Mara",
+      "actor": {
+        "@type": "Person",
+        "name": "William Sadler",
+        "sameAs": "http://www.wikidata.org/entity/Q152542",
+        "@reverse": {
+          "actor": {
+            "@type": "Movie",
+            "name": "Die Hard 2: Die Harder",
+            "sameAs": "http://www.wikidata.org/entity/Q105993"
+          }
+        }
+      }
+    }
+  ],
   "character": [
     {
       "@type": "Person",
-      "name": "Anton O'Mara"
+      "name": "Anton O'Mara",
+      "parent": {
+        "@type": "Person",
+        "gender": "Male",
+        "name": "Seamus O'Mara"
+      }
     },
     {
       "@type": "Person",
       "name": "Michael Pope"
+    },
+    {
+      "@type": "Person",
+      "name": "Seamus O'Mara"
     }
   ],
   "mentions": [
