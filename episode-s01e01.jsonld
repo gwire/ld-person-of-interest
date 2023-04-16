@@ -144,6 +144,16 @@
           "sameAs": "http://www.wikidata.org/entity/Q5612679"
         }
       ]
+    },
+    {
+      "@type": "Product",
+      "name": "Bluetooth",
+      "sameAs": "http://www.wikidata.org/entity/Q39531"
+    },
+    {
+      "@type": "Thing",
+      "name": "Bluejacking",
+      "description": "Hijacking mobile phones by exploiting Bluetooth vulnerabilities"
     }
   ]
 }
