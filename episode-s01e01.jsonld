@@ -1,0 +1,14 @@
+{
+  "@context": "http://schema.org",
+  "@type": "TVEpisode",
+  "partOfSeries": {
+    "@type": "TVSeries",
+    "name": "Person of Interest"
+  },
+  "partOfSeason": {
+    "@type": "TVSeason",
+    "seasonNumber": "1"
+  },
+  "episodeNumber": "1",
+  "name": "Pilot"
+}
